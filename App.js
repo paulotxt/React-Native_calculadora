@@ -122,5 +122,6 @@ const styles = StyleSheet.create({
   textButton: {
     color: '#2c3e50',
     fontSize: 24,
+    border: none
   },
 });
